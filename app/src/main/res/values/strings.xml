@@ -1,10 +1,11 @@
 <resources>
-    <string name="app_name">FridgeCompose</string>
+    <string name="app_name">Fridge</string>
 
     <string name="generic_error">Something wrong happened. Please try again.</string>
 
     <!-- Screens Titles -->
-    <string name="home_screen_title">MH Chat</string>
+    <string name="home_screen_title">Fridge</string>
+    <string name="start_screen_title">Fridge</string>
     <string name="log_in_screen_title">Sign In</string>
     <string name="sign_up_screen_title">Sign Up</string>
     <string name="onboarding_screen_title">Onboarding</string>
@@ -17,6 +18,11 @@
     <string name="empty_password_error">Password cannot be empty.</string>
     <string name="password_length_error">Your password should have at least six digits.</string>
     <string name="password_error">Your password should include one digit, one lower case letter and one upper case letter.</string>
+    <!-- Start Screen -->
+    <string name="startScreenHello">مرحبا..</string>
+    <string name="startScreenHelloDesc">يرجى تسجيل الدخول للوصول إلى خدماتنا\nوبدء تجربتك مع ثلاجة</string>
+    <string name="startScreenLoginButton">تسجيل الدخول</string>
+    <string name="startScreenRegisterButton">مستخدم جديد</string>
     <!-- Log In -->
     <string name="log_in_button">Sign in</string>
     <string name="log_in_with_google_button">Sign in with Google</string>

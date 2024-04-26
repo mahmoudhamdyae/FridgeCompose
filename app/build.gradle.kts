@@ -59,6 +59,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.navigation.compose)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -73,4 +74,7 @@ dependencies {
 
     // Koin
     implementation("io.insert-koin:koin-androidx-compose:3.2.0")
+
+    // Fonts
+    implementation("androidx.compose.ui:ui-text-google-fonts:1.6.6")
 }
